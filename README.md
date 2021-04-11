@@ -16,11 +16,15 @@ Python tkinter.
 
 ---
 ## Demo(Prototype).
-<img src="./demo.gif" alt="Demo">
+<img src="assets/images/demo.gif" alt="Demo">
 
 
 ## Project File Structure.
 The program is structured using the [module architecture](https://www.tutorialspoint.com/python/python_modules.htm#:~:text=A%20module%20allows%20you%20to,file%20consisting%20of%20Python%20code) to make the code readabiliy very easy.
+
+<p>Assets: Contains any Images that will be used in the course of the project</p>
+<p>Main: Contains the python file containing the software implementation</p>
+<p>Saved Files: This is where the files created after testing of the software will be saved. When testing the software, please save your file to this folder.</p>
 
 ## How to setup/Run.
 ### Third party libraries:
@@ -53,5 +57,17 @@ $python3 textEditor.py
 - <h3>Queues</h3> For copying and pasting texts, Queues are used where you can enqueue or dequeue from the same end. You are just changing the name of push and pop operations of a stack and telling it to Dequeue(for paste command) and Enqueue(for copy command). With every request for a copy and paste, a system call is made along with Enqueue and Dequeue’s individual needs.
 - <h3>Hashing</h3> To help us keep track of the words and display the number of words while the user is typing.
 - <h3>Checksum/Hashes Algo</h3> To help get the integrity of the data that is being saved.
+
+# Citations
+- [How do text editors work](http://www.text-editor.org/) 
+- [DSA used in text editors](https://iq.opengenus.org/data-structures-used-in-text-editor/)
+
+### Akatsuki Members
+  - Brenda Gilisho
+  - Abideen Hamisu
+  - Catherine Muthoni
+  - Bello Moussa Amadou
+
+<p>Thank you!! Have our loves all the way from Mars :)</p>
 
 
