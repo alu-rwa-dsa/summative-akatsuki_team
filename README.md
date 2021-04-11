@@ -62,6 +62,6 @@ $python3 textEditor.py
   - Catherine Muthoni
   - Bello Moussa Amadou
 
-<p>Thank you!! have our loves all the way from Mars :)</p>
+<p>Thank you!! Have our loves all the way from Mars :)</p>
 
 
