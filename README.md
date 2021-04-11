@@ -4,15 +4,19 @@
 We also used a stack data structure for the undo and redo purposes. 
 </p>
 
+## Technology used.
+
+Python tkinter.
 
 ---
-## Demo
+## Demo(Prototype).
 <img src="./demo.gif" alt="Demo">
 
 
-## Getting Started
+## Project File Structure.
 The program is structured using the [module architecture](https://www.tutorialspoint.com/python/python_modules.htm#:~:text=A%20module%20allows%20you%20to,file%20consisting%20of%20Python%20code) to make the code readabiliy very easy.
 
+## How to setup/Run.
 ### Third party libraries:
 - [tkinter](https://pypi.org/project/tkintertable/)
 
