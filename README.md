@@ -37,3 +37,11 @@ If you have multiple versions of python in your system, use the command bellow:
 $python3 textEditor.py
 ```
 # Future Updates
+<p>Below are data structure and algorithms we will be adding to the text editor; </p>
+
+- <h3>Two Stacks</h3> The idea behind this data structure is to mimic editing lines rather than a vast document. The two stacks are used to represent the contents where the cursor is. One stack will represent all the contents left of the cursor, while the other stack will represent all the contents right of the cursor.
+- <h3>Queues</h3> For copying and pasting texts, Queues are used where you can enqueue or dequeue from the same end. You are just changing the name of push and pop operations of a stack and telling it to Dequeue(for paste command) and Enqueue(for copy command). With every request for a copy and paste, a system call is made along with Enqueue and Dequeue’s individual needs.
+- <h3>Hashing</h3> To help us keep track of the words and display the number of words while the user is typing.
+- <h3>Checksum/Hashes Algo</h3> To help get the integrity of the data that is being saved.
+
+
