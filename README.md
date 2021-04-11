@@ -58,6 +58,9 @@ $python3 textEditor.py
 - <h3>Hashing</h3> To help us keep track of the words and display the number of words while the user is typing.
 - <h3>Checksum/Hashes Algo</h3> To help get the integrity of the data that is being saved.
 
+# Usage 
+The project is open to any contribution, but [read the CONTRIBUTING.md](./CONTRIBUTING.md) file before making PRs.
+
 # Citations
 - [How do text editors work](http://www.text-editor.org/) 
 - [DSA used in text editors](https://iq.opengenus.org/data-structures-used-in-text-editor/)
