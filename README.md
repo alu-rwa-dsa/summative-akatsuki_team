@@ -1,3 +1,9 @@
+<h2 align="center"> Let's be Algo Experts </h2>
+<p align="center">
+	<img src="assets/images/ken.gif" width="200" height="auto" alt="Ken">
+	<img src="assets/images/kaneki.gif" width="200" height="auto" alt="Kaneki">
+</p>
+
 <h1 align="center">Text Editor Using Python</h1>
 
 <p align="center">This program is a simple Text Editor. It uses  Tkinter packages to have a small GUI (Graphical User Interface) to write, edit, and save files (.txt). However you can save as .py or other type of files but, you can not edit them in the text editor as pyhton files or other type of files. Once you save the file you will see in your IDE that it is actually a python but by default it is a .txt file. (We will be working on this feature in the future). For now let's just have .txt files :) 
