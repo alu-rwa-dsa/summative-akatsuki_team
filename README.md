@@ -1,23 +1,24 @@
-<h2 align="center"> Let's be Algo Experts </h2>
+<h1 align="center">Text Editor Using Python</h1>
 <p align="center">
 	<img src="assets/images/ken.gif" width="200" height="auto" alt="Ken">
 	<img src="assets/images/kaneki.gif" width="200" height="auto" alt="Kaneki">
 </p>
 
-<h1 align="center">Text Editor Using Python</h1>
 
-<p align="center">This program is a simple Text Editor. It uses  Tkinter packages to have a small GUI (Graphical User Interface) to write, edit, and save files (.txt). However you can save as .py or other type of files but, you can not edit them in the text editor as pyhton files or other type of files. Once you save the file you will see in your IDE that it is actually a python but by default it is a .txt file. (We will be working on this feature in the future). For now let's just have .txt files :) 
-We also used a stack data structure for the undo and redo purposes. 
+<h2 align="center"> Let's be Algo Experts </h2>
+
+<p align="center">This prototype we programmed is a simple Text Editor. It uses Tkinter packages to have a small GUI (Graphical User Interface) to write, edit, and save files (.txt). We also implemented a redo and undo feature in our prototype to cover the one stack data structure concept,since the stack is LIFO (Last in First out) order, which is equivalent to the undo-redo feature. However in our prototype we can save as our file as a .py or other type of files but, we can not edit them in the text editor as python files or other type of files. Once we save the file we will see in our IDE that it is actually a python but by default it is a .txt file.For now let's just have .txt files.
+For now the prototype GUI Demo looks like this you can find the demo below. In the future we will implement new features in our text editor and cover more data strucuture concept to show our understanding and our text editor will look a lot more like ones:)
 </p>
+
+## Demo(Prototype).
+<img src="assets/images/demo.gif" alt="Demo">
 
 ## Technology used.
 
 Python tkinter.
 
 ---
-## Demo(Prototype).
-<img src="assets/images/demo.gif" alt="Demo">
-
 
 ## Project File Structure.
 The program is structured using the [module architecture](https://www.tutorialspoint.com/python/python_modules.htm#:~:text=A%20module%20allows%20you%20to,file%20consisting%20of%20Python%20code) to make the code readabiliy very easy.
