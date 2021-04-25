@@ -79,8 +79,8 @@ $python3 textEditor.py
 <strong>Test Cases</strong>
 
 1.Testing Word count
-<p>Test_data: "My name is Catherine"</p>
-<p>AssertEquals("My name is Catherine", 4)</p>
+<p>Test_data: "My name is Catherine."</p>
+<p>AssertEquals("My name is Catherine.", 4)</p>
 <p>Expected: True</p>
 
 2.Testing open file
