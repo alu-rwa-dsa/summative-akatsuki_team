@@ -59,7 +59,7 @@ The project is open to any contribution, but [read the CONTRIBUTING.md](./CONTRI
 - [How do text editors work](http://www.text-editor.org/) 
 - [DSA used in text editors](https://iq.opengenus.org/data-structures-used-in-text-editor/)
 
-### Akatsuki Members
+## Akatsuki Members
   - Brenda Gilisho
   - Abideen Hamisu
   - Catherine Muthoni
