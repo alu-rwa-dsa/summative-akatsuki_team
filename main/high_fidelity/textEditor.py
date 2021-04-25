@@ -15,6 +15,8 @@ from tkinter import simpledialog
 import os
 import time
 import hashlib
+import doctest
+
 
 
 # creates GUI (Graphical User Interface)
@@ -55,6 +57,7 @@ root.bind("<Control_L><h>", lambda x: replace(1))
 
 # status bar
 def wordcount():
+
     status.config(
         text="Character count: "
         + str(len(e.get(1.0, "end-1c")))

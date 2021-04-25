@@ -75,6 +75,26 @@ $python3 textEditor.py
 - [x] You can play with graphics however you want (resizing, the design...)
 - [ ] Help and about menu available but not functional (bear with us for future updates:) )
 
+# Correctness of Algorithm
+<strong>Test Cases</strong>
+
+1.Testing Word count
+<p>Test_data: "My name is Catherine"</p>
+<p>AssertEquals("My name is Catherine", 4)</p>
+<p>Expected: True</p>
+
+2.Testing open file
+<p>File name: "trial.txt"</p>
+<p>File content: "Hey there, what's io?"</p>
+<p>AssertEquals("trial.txt".read(), "Hey there, what's io?")</p>
+<p>Expected: True</p>
+
+3.Testing open file without putting name
+<p>File name: "trial.txt"</p>
+<p>File content: "Hey there, what's io?"</p>
+<p>AssertRaises(AssertionError,"trial.txt".read(), "Hey there, what's io?")</p>
+<p>Expected: Throws Error</p>
+
 # Usage
 
 The project is open to any contribution, but read the [CONTRIBUTING.md](./CONTRIBUTING.md) file before making PRs.
