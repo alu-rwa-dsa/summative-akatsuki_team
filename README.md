@@ -78,18 +78,20 @@ $python3 textEditor.py
 # Correctness of Algorithm
 <strong>Test Cases</strong>
 
-1.Testing Word count
+<strong>1.Testing Word count</strong>
 <p>Test_data: "My name is Catherine."</p>
 <p>AssertEquals("My name is Catherine.", 4)</p>
 <p>Expected: True</p>
 
-2.Testing open file
+
+<strong>2.Testing open file</strong>
 <p>File name: "trial.txt"</p>
 <p>File content: "Hey there, what's io?"</p>
 <p>AssertEquals("trial.txt".read(), "Hey there, what's io?")</p>
 <p>Expected: True</p>
 
-3.Testing open file without putting name
+
+<strong>3.Testing open file without putting name</strong>
 <p>File name: "trial.txt"</p>
 <p>File content: "Hey there, what's io?"</p>
 <p>AssertRaises(AssertionError,"trial.txt".read(), "Hey there, what's io?")</p>
