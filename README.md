@@ -104,16 +104,17 @@ Our app is a text editor that performs simple functionalities of a text editor l
 Additionally, it allows one to save files in their local machines and access them later. 
 </p>
 
-####Benefits
+<strong>Benefits</strong>
 <p>
 Text editors have a lot of benefits to our communities around the world. In today’s world where people spend most of their time online typing emails, writing reports, or presentations, text editors are a key requirement.
 They help make all that writing easier and fun. Some benefits of our text editor include;
 </p>
+
 <li>Collaboration - teams can work together on one editor even when they are miles apart</li>
 <li>Easy navigation - anyone is able to navigate a large document by finding a key word you are looking for and reading content around it.</li>
 <li>Save and work later - you are able to save a document you are working on and resume from where you left without worrying about losing your work.</li>
 
-####Beneficiaries
+<strong>Beneficiaries</strong>
 <p>
 People who will benefit from our app are students, office workers, bloggers , creative writers and anyone who needs to write or edit a document.
 Students are at the top of the list. They use it to write reports, thesis papers, emails and so much more.
