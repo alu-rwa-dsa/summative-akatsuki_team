@@ -10,9 +10,18 @@
 For now the prototype GUI Demo looks like this you can find the demo below. In the future we will implement new features in our text editor and cover more data strucuture concept to show our understanding and our text editor will look a lot more like ones:)
 </p>
 
-## Demo(Prototype High-Fidelity).
+## Presentation (Demo).
 
 <img src="assets/images/Peek%202021-04-21%2021-36.gif" alt="Demo">
+
+
+
+<h2>
+
+Find a full interectional presentation [here](https://www.loom.com/share/71f4bd91717a43fd914a5c65d1e57b82)
+
+Find our [slides](https://docs.google.com/presentation/d/1ygRkxDYnu5VF_MXal-dQjtytS9uhz-K5lnB_kKaUXEM/edit?usp=sharing)
+</h2>
 
 ## Technology used.
 
