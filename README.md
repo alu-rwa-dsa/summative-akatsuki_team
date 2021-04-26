@@ -97,7 +97,7 @@ $python3 textEditor.py
 <p>AssertRaises(AssertionError,"trial.txt".read(), "Hey there, what's io?")</p>
 <p>Expected: Throws Error</p>
 
-#Solution
+<h2>Solution</h2>
 
 <p>
 Our app is a text editor that performs simple functionalities of a text editor like copy and paste, wordcount , cut , find and replace and, different font sizes and styles. It is also connected to most keyboard shortcuts to make editing an easy experience.
@@ -113,6 +113,7 @@ They help make all that writing easier and fun. Some benefits of our text editor
 <li>Collaboration - teams can work together on one editor even when they are miles apart</li>
 <li>Easy navigation - anyone is able to navigate a large document by finding a key word you are looking for and reading content around it.</li>
 <li>Save and work later - you are able to save a document you are working on and resume from where you left without worrying about losing your work.</li>
+<br/>
 
 <strong>Beneficiaries</strong>
 <p>
